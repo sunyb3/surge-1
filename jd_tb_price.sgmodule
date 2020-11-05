@@ -1,4 +1,6 @@
-#!name=jd_tb_price.sgmodule.js module
+#!name=jd_tb_price.sgmodule
+#!desc=该模块为历史价格脚本合集
+#!system=ios
 
 [MITM]
 hostname = %INSERT% trade-acs.m.taobao.com,api.m.jd.com
