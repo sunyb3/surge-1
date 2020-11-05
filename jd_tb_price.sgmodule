@@ -1,4 +1,4 @@
-#!name=eval_script.js module
+#!name=jd_tb_price.sgmodule.js module
 
 [MITM]
 hostname = %INSERT% trade-acs.m.taobao.com,api.m.jd.com
